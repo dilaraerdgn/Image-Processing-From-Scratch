@@ -12,14 +12,14 @@ Arayüz üzerinden aşağıdaki işlemler gerçekleştirilebilmektedir:
 - **Kontrast Germe:** Lineer normalizasyon ile görüntü dinamik aralığının artırılması.
 
 ## 🛠️ Kullanılan Teknolojiler
-- **Python 3.x**
+- **Python**
 - **NumPy:** Matris operasyonları ve matematiksel hesaplamalar.
 - **Tkinter:** Grafik kullanıcı arayüzü (GUI) tasarımı.
 - **Pillow (PIL):** Görüntü okuma ve arayüzde gösterme işlemleri.
 
 ## 📂 Proje Yapısı
 - `main.py`: Uygulamanın kaynak kodu.
-- `Görüntü_İşleme_Raporu.pdf`: Projenin detaylı matematiksel anlatımını ve çıktı analizlerini içeren rapor.
+- `GORUNTU_ISLEME_VE_ARAYUZ_GELISTIRME_RAPORU.pdf`: Projenin detaylı matematiksel anlatımını ve çıktı analizlerini içeren rapor.
 
 ## 💻 Kurulum
 Projeyi yerel makinenizde çalıştırmak için:
