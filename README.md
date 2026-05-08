@@ -23,6 +23,6 @@ Arayüz üzerinden aşağıdaki işlemler gerçekleştirilebilmektedir:
 
 ## 💻 Kurulum
 Projeyi yerel makinenizde çalıştırmak için:
-1. Depoyu klonlayın: `git clone https://github.com/kullaniciadi/proje-adi.git`
+1. Depoyu klonlayın
 2. Gerekli kütüphaneleri kurun: `pip install numpy pillow`
 3. Uygulamayı çalıştırın: `python main.py`
